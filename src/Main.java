@@ -26,6 +26,7 @@ public class Main {
         } else {
             System.out.println("No");
         }
+        //Gitの使い方の学習の為コメントを入れました。
 
         scanner.close();
     }
